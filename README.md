@@ -8,7 +8,7 @@ these files are modeled after [Takuya Matsuyama](https://github.com/craftzdog) a
 
 ---
 
-### Contents
+# Contents
 
 - vim (Neovim) config
 - tmux config
