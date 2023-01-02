@@ -10,11 +10,7 @@ these files are modeled after [Takuya Matsuyama](https://github.com/craftzdog) a
 
 ### Contents
 
----
-
 - vim (Neovim) config
 - tmux config
 - fish shell config
 - git config
-
----
