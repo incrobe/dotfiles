@@ -14,3 +14,7 @@ these files are modeled after [Takuya Matsuyama](https://github.com/craftzdog) a
 - tmux config
 - fish shell config
 - git config
+
+---
+
+new to learning coding.
